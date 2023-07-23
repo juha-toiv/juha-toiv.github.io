@@ -14,11 +14,11 @@ sitemap: false
 
 <div class="about-text">
 
-<p>I'm a recent graduate of Southern Alberta Institute of Technology with a bachelors degree in Geographic Information Systems.</p>
+<p>I'm a recent graduate of Southern Alberta Institute of Technology with a bachelor's degree in Geographic Information Systems.</p>
 
 <p>I currently work as a GIS Technician in Winnipeg, Manitoba.</p>
   
-<p>I also have previous education and experience in IT/Software</p>
+<p>I also have previous education and experience in IT/Software.</p>
 
 <p>I have experience working with technologies such as ArcGIS Pro (and Online,) QGIS, Python (Arcpy, OpenCV.)</p> 
 </div>
