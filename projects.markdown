@@ -28,7 +28,7 @@ Here are various personal projects I've been working on; the source code can be 
 <a href="https://github.com/juha-toiv/coordinates-to-point-feature"><img src="https://gh-card.dev/repos/juha-toiv/coordinates-to-point-feature.svg"></a>
 <br>
 * Custom geoprocessing tool/script for a ArcGIS Pro for creating point feature layers from coordinates in DMS format, or other coordinate notation formats supported by ArcGIS Pro
-* Output point feature layer is stored in memory and added to the active map
+* The output point feature layer is stored in memory and added to the active map
 <br>
 <br>
 
@@ -38,7 +38,7 @@ Here are various personal projects I've been working on; the source code can be 
 
 <a href="https://github.com/juha-toiv/send-location-to-whatsapp"><img src="https://gh-card.dev/repos/juha-toiv/send-location-to-whatsapp.svg"></a>
 <br>
-* Script allows sending location coordinates of a point feature layer from ArcGIS Pro to WhatsApp via Facebook API. The receipient receives a location pin that can be viewed with google maps. 
+* Script allows sending location coordinates of a point feature layer from ArcGIS Pro to WhatsApp via Facebook API. The recipient receives a location pin that can be viewed with Google Maps
 <br>
 <br>
 
