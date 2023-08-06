@@ -32,6 +32,18 @@ Here are various personal projects I've been working on; the source code can be 
 <br>
 <br>
 
+#### Create Random Points by Density
+
+<img height="30%" width="30%" style="float:right;padding-left:15px" src="{{site.baseurl}}/assets/images/random-points-density.PNG">
+
+<a href="https://github.com/juha-toiv/create-random-points-density"><img src="https://gh-card.dev/repos/juha-toiv/create-random-points-density.svg"></a>
+<br>
+* A script for ArcGIS Pro for creating random points within a polygon feature layer according to density
+* User can specify the areal unit and number of points
+* The number of points within each polygon feature in a feature layer is calculated according to point density set by user
+<br>
+<br>
+
 #### Send Coordinates to WhatsApp
 
 <img height="30%" width="30%" style="float:right;padding-left:15px" src="{{site.baseurl}}/assets/images/whatsapp.PNG">
