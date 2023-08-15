@@ -14,9 +14,7 @@ sitemap: false
 
 <div class="about-text">
 
-<p>I'm a recent graduate of Southern Alberta Institute of Technology with a bachelor's degree in Geographic Information Systems.</p>
-
-<p>I currently work as a GIS Technician in Winnipeg, Manitoba.</p>
+<p>I'm a student of GIS (bachelors) at Southern Alberta Institute of Technology.</p>
   
 <p>I also have previous education and experience in IT/Software.</p>
 
