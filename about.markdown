@@ -14,10 +14,10 @@ sitemap: false
 
 <div class="about-text">
 
-<p>I'm a student of GIS (bachelors) at Southern Alberta Institute of Technology.</p>
+<p>I'm a recent graduate of GIS (bachelors) at Southern Alberta Institute of Technology.</p>
   
-<p>I also have previous education and experience in IT/Software.</p>
+<p>I also have a degree in IT and experience in Software Development.</p>
 
-<p>I have experience working with technologies such as ArcGIS Pro (and Online,) QGIS, Python (Arcpy, OpenCV.)</p> 
+<p>I've worked with technologies such as ArcGIS Pro (and Online,) QGIS, Python (Arcpy, OpenCV,) Java, Spring, Jenkins.</p> 
 </div>
 </div>
