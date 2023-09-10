@@ -77,14 +77,3 @@ Here are various personal projects I've been working on; the source code can be 
 * Output layers are added to active map and saved into a file geodatabase
 <br>
 <br>
-
-#### Polyline Travel Time
-
-<a href="https://github.com/juha-toiv/polyline-travel-time"><img src="https://gh-card.dev/repos/juha-toiv/polyline-travel-time.svg"></a>
-<br>
-* Custom geoprocessing tool / script for ArcGIS Pro to calculate an estimated travel time for a polyline feature layer based on average speed and coordinate system
-* Modifies the input feature class by adding a new field
-<br>
-<br>
-
-
