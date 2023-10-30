@@ -16,7 +16,7 @@ sitemap: false
 
 <p>I'm a recent graduate of GIS (bachelors) at Southern Alberta Institute of Technology.</p>
   
-<p>I also have a degree in IT and experience in Software Development.</p>
+<p>In addition to GIS, I have also experience in software development.</p>
 
 <p>I've worked with technologies such as ArcGIS Pro (and Online,) QGIS, Python (Arcpy, OpenCV,) Java, Spring, Jenkins.</p> 
 </div>
