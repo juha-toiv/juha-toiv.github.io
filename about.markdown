@@ -18,6 +18,6 @@ sitemap: false
   
 <p>In addition to GIS, I have also experience in software development.</p>
 
-<p>I've worked with technologies such as ArcGIS Pro (and Online,) QGIS, Python (Arcpy, OpenCV,) Java, Spring, Jenkins.</p> 
+<p>I've worked with technologies such as ArcGIS, QGIS, Python (Arcpy, OpenCV, Selenium)</p> 
 </div>
 </div>
